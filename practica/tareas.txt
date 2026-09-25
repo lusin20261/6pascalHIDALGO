@@ -1,0 +1,5 @@
+1: tender mi cama
+2: lavar los platos 
+3: barrer el piso 
+4: hacer la tarea
+5: trapiar el piso
