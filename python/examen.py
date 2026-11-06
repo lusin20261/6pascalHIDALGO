@@ -1,0 +1,10 @@
+a = input("ingresa tu nombre: ");
+b = input("ingresa tu edad: ");
+c = input("ingresa tu comida favorita: ");
+d = input("ingresa tu color favorita: ");
+e = input("ingresa tu animal preferido: ");
+print("hola",a);
+print("tienes",b,"años, que bueno.");
+print("a mi también me gusta",c,"es muy rico");
+print("mi color favorito tambien es el",d);
+print("tu animal favorito es el",e);
